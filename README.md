@@ -1,1 +1,1 @@
-# Shady-Meadows-Manual-Testing-Project
+Shady Meadows is web application on this site i have performed Manual Testing in which i have created SRS, Test Plan, Test Scenarios, Test Cases, Execute the Test Cases, Defect Report and RTM documents.
